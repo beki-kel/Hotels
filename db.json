@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "Luxury Hotel A",
+      "location": "City Center, New York",
+      "accommodationType": "hotel",
+      "pricing": {
+        "amount": 300,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Seaside Resort B",
+      "location": "Oceanfront, Miami",
+      "accommodationType": "resort",
+      "pricing": {
+        "amount": 500,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Cozy Guesthouse C",
+      "location": "Suburb, Los Angeles",
+      "accommodationType": "guesthouse",
+      "pricing": {
+        "amount": 80,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Urban Boutique Hotel D",
+      "location": "Downtown, Chicago",
+      "accommodationType": "hotel",
+      "pricing": {
+        "amount": 250,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Mountain Retreat Resort E",
+      "location": "Mountain Range, Denver",
+      "accommodationType": "resort",
+      "pricing": {
+        "amount": 450,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Quaint Inn F",
+      "location": "Countryside, Nashville",
+      "accommodationType": "guesthouse",
+      "pricing": {
+        "amount": 100,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": 7,
+      "name": "City Skyline Hotel G",
+      "location": "Skyline View, San Francisco",
+      "accommodationType": "hotel",
+      "pricing": {
+        "amount": 280,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Tropical Paradise Resort H",
+      "location": "Tropical Island, Honolulu",
+      "accommodationType": "resort",
+      "pricing": {
+        "amount": 600,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Historic Bed and Breakfast I",
+      "location": "Historical District, Boston",
+      "accommodationType": "guesthouse",
+      "pricing": {
+        "amount": 120,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Riverside Retreat Hotel J",
+      "location": "Riverside, Portland",
+      "accommodationType": "hotel",
+      "pricing": {
+        "amount": 220,
+        "currency": "USD"
+      }
+    }
+  ]
+  
