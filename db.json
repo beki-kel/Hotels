@@ -8,7 +8,8 @@
         "pricing": {
           "amount": 300,
           "currency": "USD"
-        }
+        },
+        "availability": true
       },
       {
         "externalId": "2",
@@ -18,7 +19,8 @@
         "pricing": {
           "amount": 500,
           "currency": "USD"
-        }
+        },
+        "availability": false
       },
       {
         "externalId": "3",
@@ -28,7 +30,8 @@
         "pricing": {
           "amount": 80,
           "currency": "USD"
-        }
+        },
+        "availability": true
       },
       {
         "externalId": "4",
@@ -38,7 +41,8 @@
         "pricing": {
           "amount": 250,
           "currency": "USD"
-        }
+        },
+        "availability": false
       },
       {
         "externalId": "5",
@@ -48,7 +52,8 @@
         "pricing": {
           "amount": 450,
           "currency": "USD"
-        }
+        },
+        "availability": true
       },
       {
         "externalId": "6",
@@ -58,7 +63,8 @@
         "pricing": {
           "amount": 100,
           "currency": "USD"
-        }
+        },
+        "availability": true
       },
       {
         "externalId": "7",
@@ -68,7 +74,8 @@
         "pricing": {
           "amount": 280,
           "currency": "USD"
-        }
+        },
+        "availability": false
       },
       {
         "externalId": "8",
@@ -78,7 +85,8 @@
         "pricing": {
           "amount": 600,
           "currency": "USD"
-        }
+        },
+        "availability": true
       },
       {
         "externalId": "9",
@@ -88,7 +96,8 @@
         "pricing": {
           "amount": 120,
           "currency": "USD"
-        }
+        },
+        "availability": false
       },
       {
         "externalId": "10",
@@ -98,7 +107,8 @@
         "pricing": {
           "amount": 220,
           "currency": "USD"
-        }
+        },
+        "availability": true
       }
     ]
   }
